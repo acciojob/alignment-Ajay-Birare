@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+table{
+	width:60%;
+	text-align:center;
+}
+td{
+    padding: 10px;
+    
+}
+#t33,#t23,#t13{
+	text-align:right;
+}
+.center{
+	text-align:center;
+}
+
+#t11,#t21,#t31{
+	text-align:left;
+}
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
