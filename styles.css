@@ -24,3 +24,6 @@ td{
 .blue{
     background-color: blue;
 }
+caption{
+	font-weight:bold;
+}
